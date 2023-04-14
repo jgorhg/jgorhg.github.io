@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>欢迎访问我的博客</title>
+  
+  <subtitle>我的生活笔记本</subtitle>
+  <link href="https://jgorhg.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://jgorhg.github.io/"/>
+  <updated>2023-04-12T23:49:53.317Z</updated>
+  <id>https://jgorhg.github.io/</id>
+  
+  <author>
+    <name>天天</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇博客文章</title>
+    <link href="https://jgorhg.github.io/2023/04/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
+    <id>https://jgorhg.github.io/2023/04/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
+    <published>2023-04-12T02:30:14.000Z</published>
+    <updated>2023-04-12T23:49:53.317Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/%E6%B8%85%E6%B3%BD%E5%9B%AD%E9%9B%95%E5%A1%91.jpg&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;小标题&quot;&gt;&lt;a href=&quot;#小标题&quot; class=&quot;headerlink&quot; title=&quot;小标题&quot;&gt;&lt;/a&gt;小标题&lt;/h1&gt;&lt;p&gt;　　再飞行&lt;/p&gt;
+&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h1&gt;&lt;p&gt;　　这篇文章写于2023年4月8日。&lt;br&gt;　　最初的写作目的是给友人回信，末尾变成了对自身前些年的思辨和反省。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="文集" scheme="https://jgorhg.github.io/categories/%E6%96%87%E9%9B%86/"/>
+    
+    
+    <category term="成长" scheme="https://jgorhg.github.io/tags/%E6%88%90%E9%95%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>分享美好生活</title>
+    <link href="https://jgorhg.github.io/2023/04/09/hello-world/"/>
+    <id>https://jgorhg.github.io/2023/04/09/hello-world/</id>
+    <published>2023-04-09T14:12:33.978Z</published>
+    <updated>2023-04-12T14:43:33.638Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Hello-Hexo&quot;&gt;&lt;a href=&quot;#Hello-Hexo&quot; class=&quot;headerlink&quot; title=&quot;Hello Hexo&quot;&gt;&lt;/a&gt;Hello Hexo&lt;/h2&gt;&lt;h3 id=&quot;欢迎来到我的博客。我的生活笔记本。&quot;&gt;&lt;a href=&quot;#欢迎来到我的博客。我的生活笔记本。&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到我的博客。我的生活笔记本。&quot;&gt;&lt;/a&gt;欢迎来到我的博客。我的生活笔记本。&lt;/h3&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
